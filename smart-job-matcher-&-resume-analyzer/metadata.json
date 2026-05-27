@@ -1,0 +1,6 @@
+{
+  "name": "Smart Job Matcher & Resume Analyzer",
+  "description": "Analyze your resume skills, match instantly with internships and job listings, analyze skill gaps, and explore recommendations. Includes an Admin panel for adding new job postings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
